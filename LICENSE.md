@@ -1,4 +1,4 @@
-# 
+# Enhance 1Password for macOS with professional 1Password for macOS Script | data-breach-alerts + ransomware-shield, the #1 script. Includes data-breach-alerts and ransomware-shield
 
 
 
